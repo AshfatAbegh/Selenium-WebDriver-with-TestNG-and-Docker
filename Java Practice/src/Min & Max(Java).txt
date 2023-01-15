@@ -1,0 +1,10 @@
+2 4 5
+3 4 7
+1 2 9
+
+Print minimum number from the above matrix?
+=========================
+
+Step-1: Find the minimum number 
+Step-2: Identify the column of minimum number
+Step-3: Find the maximum number in identified column  

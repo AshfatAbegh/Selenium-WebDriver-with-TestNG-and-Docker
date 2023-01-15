@@ -1,0 +1,9 @@
+Java Interface - It is a client agreement between actualcode and class implementation
+
+CLient will define only methods like 
+
+1) Paycreditcard();
+2) Transferbalance(); 
+3) Checkingbalance();
+
+Classes can implement the methods present in interface
