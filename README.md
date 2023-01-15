@@ -1,1 +1,1 @@
-# SQA-Automation-Testing
+# Learned Selenium WebDriver from Basic to Advanced, learned Test Cases Execution & Reporting using TestNG, Practiced core Java for Convenient using with Selenium WebDriver, Learned Maven Framework for Build Automation. 
