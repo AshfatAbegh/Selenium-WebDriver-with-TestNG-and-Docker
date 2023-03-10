@@ -1,1 +1,1 @@
-# Learned Selenium WebDriver from Basic to Advanced, Test Cases Execution & Reporting using TestNG, Practiced core Java for Convenient using with Selenium WebDriver.
+# Learned Selenium WebDriver from Basic to Advanced, Executed Test Cases & Reported using TestNG, Practiced Core Java for Convenient using with Selenium WebDriver.
