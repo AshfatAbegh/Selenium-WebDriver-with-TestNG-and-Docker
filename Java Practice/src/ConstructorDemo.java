@@ -1,6 +1,6 @@
 public class ConstructorDemo {
     
-	//Default Constructor
+	//Default Constructor 
 	public ConstructorDemo()
 	{
 		System.out.println("In the constructor");
@@ -15,7 +15,7 @@ public class ConstructorDemo {
 	
 	public ConstructorDemo(String str)
 	{
-		System.out.println("STR");
+		System.out.println(str);
 	}
 	
 	public void getData()

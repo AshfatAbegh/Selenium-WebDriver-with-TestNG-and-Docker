@@ -19,7 +19,7 @@ public class NewUserSignUp {
 		  
 		  driver.findElement(By.xpath("//input[@type='checkbox']")).click();
 		  
-		  //=============Entering Name for New USser SignUp=============  
+		  //=============Entering Name for New User SignUp=============  
 		  WebElement Name = driver.findElement(By.name("name"));
 		  Thread.sleep(2000);
 		  Name.sendKeys("Araf Islam");

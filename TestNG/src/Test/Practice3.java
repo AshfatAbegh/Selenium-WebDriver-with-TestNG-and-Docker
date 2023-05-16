@@ -22,7 +22,7 @@ import org.testng.annotations.Test;
    {
 	   //Selenium
 	   System.out.println("weblogincar");
-	   System.out.println("urlname");
+	   System.out.println(urlname);
    }
    
    @BeforeMethod
