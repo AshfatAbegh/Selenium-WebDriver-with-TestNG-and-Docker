@@ -90,15 +90,15 @@ import org.testng.annotations.Test;
       
 	  //1st set
 	  data[0][0] = "firstsetusername";
-      data[0][1] = "firstpassowrd";
+      data[0][1] = "firstpassword";
    
       //2nd set
       data[1][0]= "secondsetusername";
-      data[1][1]= "secondpassowrd";
+      data[1][1]= "secondpassword";
       
       //3rd set
       data[2][0]= "thirdsetusername";
-      data[2][1]= "thirdpassowrd";
+      data[2][1]= "thirdpassword";
       
       return data;
    }
