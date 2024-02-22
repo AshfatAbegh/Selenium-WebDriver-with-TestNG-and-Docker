@@ -88,8 +88,8 @@ import org.testng.annotations.Test;
 	   
 	  Object[][] data = new Object[3][2]; //Multidimensional Object Array  
       
-	  //1st set
-	  data[0][0] = "firstsetusername";
+      //1st set
+      data[0][0] = "firstsetusername";
       data[0][1] = "firstpassword";
    
       //2nd set
