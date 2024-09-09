@@ -20,10 +20,10 @@ public class DockerWithChrome {
 	  
 	  RemoteWebDriver driver = new RemoteWebDriver(url,dc);
 	  
-	  driver.get("https://hub.docker.com/r/selenium/standalone-chrome");
-      System.out.println("Title of the page: " + driver.getTitle());
+	 driver.get("https://hub.docker.com/r/selenium/standalone-chrome");
+         System.out.println("Title of the page: " + driver.getTitle());
       
-      driver.quit();
+         driver.quit();
+	
 	}
-
 }
