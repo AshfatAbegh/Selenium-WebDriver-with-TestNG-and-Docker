@@ -22,13 +22,12 @@ public class Scope {
 		WebElement footerdriver = driver.findElement(By.xpath("//footer[@class='footer-area']"));//Limiting webdriver scope
 		System.out.println("Total Links in Footer: "+footerdriver.findElements(By.tagName("a")).size());
 	
-	    WebElement coloumndriver = footerdriver.findElement(By.xpath("//body[@data-aos-easing='ease']/footer[@class='footer-area']/div[@class='container pt-5 mt-3']/div[@class='row']/div[2]"));
-	    System.out.println("Total Links in the 1st coloumn of Footer: "+coloumndriver.findElements(By.tagName("a")).size());
+	        WebElement coloumndriver = footerdriver.findElement(By.xpath("//body[@data-aos-easing='ease']/footer[@class='footer-area']/div[@class='container pt-5 mt-3']/div[@class='row']/div[2]"));
+	        System.out.println("Total Links in the 1st coloumn of Footer: "+coloumndriver.findElements(By.tagName("a")).size());
 	
-	   //Click on each link in the coloumn and check if the pages are opening
-	   for(int i=1; i<coloumndriver.findElements(By.tagName("a")).size(); i++) {
+	        //Click on each link in the coloumn and check if the pages are opening
+	        for(int i=1; i<coloumndriver.findElements(By.tagName("a")).size(); i++) {
 		   coloumndriver.findElements(By.tagName("a")).get(i).click(); 
 	   }
 	}
-
 }
