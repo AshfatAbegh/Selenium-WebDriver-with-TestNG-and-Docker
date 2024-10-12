@@ -1,1 +1,1 @@
-# Learned Selenium WebDriver from Basic to Advanced, Executed Test Cases & Reported using TestNG, Learned containerization with docker and parallel testing inside docker, and Practiced Core Java for Convenient use with Selenium WebDriver.
+# Learned Selenium WebDriver from basic to advanced levels, executing test cases and generating reports using TestNG. Additionally, I explored containerization with Docker, enabling parallel testing within Docker environments, for better automation practiced Core Java, ensuring seamless integration with Selenium WebDriver.
