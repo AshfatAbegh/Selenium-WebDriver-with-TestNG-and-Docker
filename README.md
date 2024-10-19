@@ -1,1 +1,1 @@
-# Automated website testing using Selenium WebDriver, executing test cases with TestNG and performing data-driven testing utilizing MS Excel. Integrated Maven for build automation and acquired proficiency in Docker for containerization and parallel testing.
+# Automated website testing using Selenium WebDriver, executed test cases with TestNG, and performed data-driven testing utilizing MS Excel. Integrated Maven for build automation and acquired proficiency in Docker for containerization and parallel testing.
